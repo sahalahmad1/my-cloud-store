@@ -19,11 +19,12 @@ This is a web-based application designed to help users store and manage their fi
 - Easy-to-use dashboard
 - Python-based management
 
-## Features
-- Secure file upload
-- Easy-to-use dashboard
-- Python-based management
 
 - ## Tech Stack
 - Frontend: HTML/CSS
 - Backend: Python
+
+- ## Features
+- Secure file upload
+- Easy-to-use dashboard
+- Python-based management
