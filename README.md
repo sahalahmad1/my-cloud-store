@@ -13,3 +13,8 @@ This is a web-based application designed to help users store and manage their fi
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Run the application: `python app.py`.
+
+   ## Features
+- Secure file upload
+- Easy-to-use dashboard
+- Python-based management
