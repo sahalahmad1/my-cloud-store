@@ -8,3 +8,8 @@ This is a web-based application designed to help users store and manage their fi
 * **File Uploads:** Easily upload local files to the cloud.
 * **Responsive UI:** Clean interface built with HTML templates.
 * **Python Backend:** Scalable logic using Python scripts.
+
+  ## How to Run
+1. Clone this repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Run the application: `python app.py`.
