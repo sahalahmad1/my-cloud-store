@@ -18,3 +18,8 @@ This is a web-based application designed to help users store and manage their fi
 - Secure file upload
 - Easy-to-use dashboard
 - Python-based management
+
+## Features
+- Secure file upload
+- Easy-to-use dashboard
+- Python-based management
